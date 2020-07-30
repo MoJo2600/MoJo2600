@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my GitHub Account.
+
+- __Email:__ christian.erhardt@mojo2k.de
+- __Twitter:__ https://twitter.com/mojo2600
+
+__Info:__</br>
+Software developer and DevOps engineer with love for embedded devices.
 
 <!--
 **MoJo2600/MoJo2600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
