@@ -1,7 +1,6 @@
 # Welcome to my GitHub Account.
 
 - __Email:__ christian.erhardt@mojo2k.de
-- __Twitter:__ https://twitter.com/mojo2600
 
 __Info:__</br>
 Software developer and DevOps engineer with love for embedded devices.
